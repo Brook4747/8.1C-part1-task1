@@ -4,3 +4,4 @@ This line is added to test Jenkins Poll SCM trigger
 Second test Jenkins Poll SCM trigger
 Third test Jenkins poll SCM trigger
 Try to test Jenkins poll SCM trigger
+The last test Jenkins poll SCM trigger
